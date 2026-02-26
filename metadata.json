@@ -1,0 +1,5 @@
+{
+  "name": "Student Insight Assistant",
+  "description": "A dashboard for teachers to view and analyze individual student conversations with an AI assistant.",
+  "requestFramePermissions": []
+}
